@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/triproinsights/static/css/main.abd64e84.css",
+    "main.js": "/triproinsights/static/js/main.16b49d3c.js",
+    "static/js/787.4c026eef.chunk.js": "/triproinsights/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif.gif": "/triproinsights/static/media/loading.gif.8198bc5557fe5233d87e.gif",
+    "index.html": "/triproinsights/index.html",
+    "main.abd64e84.css.map": "/triproinsights/static/css/main.abd64e84.css.map",
+    "main.16b49d3c.js.map": "/triproinsights/static/js/main.16b49d3c.js.map",
+    "787.4c026eef.chunk.js.map": "/triproinsights/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.16b49d3c.js"
+  ]
+}
